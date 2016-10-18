@@ -1,2 +1,15 @@
 # OOAD-WEEK09
 Class Diagram
+ภาพที่ 1
+![](http://www.plantuml.com/plantuml/img/7Oqn2e0m40JxUyMIKaXXQo4M-W5_SEeHWl4EOaJylT5wXfdXB9pBTIIYUHhXMeV6UxY3zN48MKGxhAQ5evv4Ixe4LeL7Kh8R7JXKAN29fX_cTOVt_H-op1g4Q13Twk45)
+
+ภาพที่ 2 
+![](http://www.plantuml.com/plantuml/img/BOsn2e0m44FtVaMuKN3GqQchkpzGRK7HUj0xaVwzjHH2XkI5M56Nz8cNsIud0bhsGr0KCn9p93X1hOP6L1__c6R5o-aKw3zwNOOoap4DwVeUj0PFcF18C3RSlZnz)
+
+ภาพที่ 3![](http://www.plantuml.com/plantuml/img/BOsn2e0m44FtVaMuKN3GqQchkpzGRK7HUj0xaVwzjHH2XkI5M56Nz8cNsIud0bhsGr0KCn9p93X1hOP6L1__c6R5o-aKw3zwNOOoap4DwVeUj0PFcF18C3RSlZnz)
+
+ภาพที่ 4
+![](http://www.plantuml.com/plantuml/img/PP3DQiGm38JlUGeTkvJD6oni3wMtNlRKKn2ncfZw3qd94ahVVMMdXK0lWyTuHfzr5KNM9OPk32W2EAfF4tnt01zvWH4JB4BcX5PY311y8Z7VzoOeiDchEoQjBZcOE2_5pfUBYSxM9Q1v8fs9Qs8O3iqphbGx8gPjJyg_qlFPvDMQyoSqnEwd-sNLdByK6slVmyt74WZUI9Lunti66_oEaPvEV-x5EIQHTb53EP9zxHYHGsGOeB1VKGaSsgX6xvC2JjJOWDB8Mr5oE-XDkQwl6DuziwkiLqhEzli0)
+
+ภาพที่ 5
+![](http://www.plantuml.com/plantuml/img/POyn3i8m34LdV0fBBA1Em5fL7LYPUe8qCIIIdKfnAbGGToSGCQ2Ejj-p_kyrcvHdOG3BHXNFiyXom2SWRcMvKFQJqzqUNd_0yGiqFZX7iK8hveHjEr0AXiF3Z4nTLwHDC-GKuWsZ4Ve8vGMXa8oKj0uhouPacK3zTF_5avghxbR2DH2N8_GKNQds1W00)
