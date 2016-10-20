@@ -26,3 +26,25 @@ book -> "web user" : check availability()
 "database server" -> "web server" : availability()
 "web server" -> user : available to book()
 @enduml
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuSfFIyjCJYrIqBLJo2zA0JAi5D9JInJymMpFlBHy3Kqki0HGGN9fSKb-BboDCv2BeWHaI45HVaffSWbKIG2KXwuAPbLoOawoWdj9VabY3eeqr55M2YcPnGKvYPKAHQd5fJabG3KEgNafG7S30000)
+
+@startuml
+officer -> order : get Order Info()
+order-> customer : get Cust Info()
+order -> product : get Product Info()
+order -> order : calc Gtotal()
+order -> officer : display result()
+@enduml
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuIejJYrIqBLJICxFBIWj0RAj598pKfEpNNCJCtCqDBbWua0bG9LbO0N5gNaf2gLvGAf48HLDdGAomhpKShW2g22gLKMfnGNvG8Dm6H0DDo5M8IM_F2ydFp45lvKfgJcf9QaA-Ja8TGv0vmAz2W00)
+
+@startuml
+user -> computer : checkEmail()
+computer-> server : send unsent email()
+computer -> server : new email()
+server -> computer : response()
+computer -> server : [new email] download email()
+computer -> server : delete old email()
+@enduml
+
